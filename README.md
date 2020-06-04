@@ -1,11 +1,9 @@
 # Unit 19 React Homework: Employee Directory
 
-  * Created by Erik Adames
+  * Created by 
+  * Github Repo Link:
 
-  * Github Repo Link: https://github.com/egadames/hw12
-
-  * Live Link: https://afternoon-earth-35344.herokuapp.com/ 
-
+  * Live Link: 
 ## Overview
 
 This is an employee directory created  with React.  The user will be able to view my entire employee directory at once so that they can have quick access to their information. An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. This app is helpful as it allowd for the data to be sorted by all the columns except the imiage column and they can also search for an employee. 
@@ -42,7 +40,7 @@ This is an employee directory created  with React.  The user will be able to vie
 
 ## Screenshots
 
-![app screenshot](https://github.com/egadames/hw12/blob/master/src/assets/img/screenshot.JPG)
+![app screenshot](https://github.com/eyeball1/hw12/blob/master/src/assets/img/screenshot.JPG)
 
 ## Questions
 
@@ -50,4 +48,4 @@ This is an employee directory created  with React.  The user will be able to vie
 
   * User GitHub email
 
-    * Email: egadames990@gmail.com
+    * Email: davidmichaelhughey@gmail.com
